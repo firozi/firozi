@@ -2,7 +2,7 @@
 - 👀 I’m interested in languages
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on html and css open-source project
-- 📫 How to reach me farhad.firoziquartz@gmail.com
+- 📫 How to reach me farhad.firozitabar@outlook.com
 
 <!---
 firozi/firozi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
